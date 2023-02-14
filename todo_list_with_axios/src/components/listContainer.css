@@ -1,0 +1,7 @@
+.crossed-line {
+  text-decoration: line-through;
+}
+.none-line {
+  text-decoration: none;
+  color: green;
+}
